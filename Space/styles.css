@@ -1,0 +1,36 @@
+body{
+    color: #82a5ca;
+    text-align: center;
+    font-family: "Orbitron", sans-serif;
+    font-size: 25px;
+    margin: 0;
+}
+
+.main{
+    background-image: url("images/galaxy.webp");
+    background-size: cover;
+    padding: 20px 0 350px 0;
+}
+
+.btn{
+    padding: 10px 20px;
+    font-size: 20px;
+    background: white;
+    border: none;
+    font-family: inherit;
+    color: #82a5ca;
+    font-weight: bold;
+}
+
+.underline{
+    border-bottom: 4px solid white;
+}
+
+#logo{
+    width: 150px;
+    margin-bottom: 20px;
+}
+
+.blur{
+    text-shadow: 0px 0px 4px black;
+}
